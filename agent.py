@@ -19,8 +19,8 @@ LAST_POSTED_STATE = {}
 
 game_lock = Lock()
  
-PARTICIPANT = "ParticipantX"
-AGENT_NAME = "AgentX"
+PARTICIPANT = "TowerDuo"
+AGENT_NAME = "RevRage"
 AGENT_STRATEGY = os.environ.get("AGENT_STRATEGY", "legacy_tronbot")
 
 
